@@ -1,0 +1,53 @@
+Bottleneck @ file:///C:/ci/bottleneck_1648029103672/work
+certifi==2022.5.18.1
+click @ file:///C:/ci/click_1646056799533/work
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+cytoolz==0.11.0
+daal4py==2021.5.0
+dask @ file:///C:/ci/dask-core_1653064374285/work
+distro @ file:///tmp/build/80754af9/distro_1610479853857/work
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+fonttools==4.25.0
+fsspec @ file:///C:/ci/fsspec_1652802723452/work
+future==0.18.2
+gunicorn==20.1.0
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+kiwisolver @ file:///C:/ci/kiwisolver_1653292408254/work
+locket @ file:///C:/ci/locket_1652904093019/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528314575/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+munkres==1.1.4
+networkx @ file:///opt/conda/conda-bld/networkx_1647437648384/work
+numexpr @ file:///C:/ci/numexpr_1640704408721/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1652802206636/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1650373491186/work
+partd @ file:///opt/conda/conda-bld/partd_1647245470509/work
+Pillow==9.0.1
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyWavelets @ file:///C:/ci/pywavelets_1648728087988/work
+PyYAML==6.0
+scikit-build @ file:///C:/ci/scikit-build_1610399396343/work
+scikit-image @ file:///C:/ci/scikit-image_1648214310498/work
+scikit-learn @ file:///C:/ci/scikit-learn_1642599125707/work
+scikit-learn-intelex==2021.20220215.153006
+scikit-rf @ file:///tmp/build/80754af9/scikit-rf_1624298598240/work
+scipy @ file:///C:/ci/scipy_1641555198988/work
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tifffile==2020.10.1
+toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+wincertstore==0.2
